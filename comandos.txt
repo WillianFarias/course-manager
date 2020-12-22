@@ -1,3 +1,4 @@
 ng new xx - cria projeto angular
 ng server - starta aplicacao
+npm install bootstrap - adiciona bootstrap ao projeto
 
