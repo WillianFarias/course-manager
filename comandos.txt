@@ -1,0 +1,3 @@
+ng new xx - cria projeto angular
+ng server - starta aplicacao
+
