@@ -1,4 +1,4 @@
-import { Component } from '@angular/core'
+import { Component, OnChanges, Input } from '@angular/core'
 
 //decoretor que informa que esta classe é um componente
 @Component ({
